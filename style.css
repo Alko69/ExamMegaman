@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color:darkturquoise;
+    background-image: url(./img/mega.png), url(./img/megaman.png);
+    background-repeat: no-repeat;
+    background-size: 150px 200px;
+    background-position: 3% 95%, 95% 25%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+    align-items: center;
+}
+
+header{
+    height: 10%;
+}
+
+nav{
+    height: 100%;
+    background-color: #1e2761;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    border: solid black 1px;
+    width: 120px;
+    height: 40px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#secret{
+    color: black;
+    border: none;
+    padding: 0;
+    font-size: larger;
+    display: block  ;
+}
+
+.logout{
+    position: absolute;
+    display: none;
+}
+
+.logout >a{
+    color: black;
+}
+
+#connexion:hover .logout{
+    display: block;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+main{
+    width: 60%;
+    margin-left: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2{
+    margin-top: 40px;
+}
+
+.secretInfos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li > a:hover{
+    background-color: #1e1761;
+}
+
+h1{
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+
+p{
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+header{
+    margin-bottom: 30px;
+}
+
+#form{
+    width: 30%;
+    height: 10%;
+    border: solid black 1px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color:rgb(47, 144, 146) ;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+#secret{
+    font: 1rem 'Fira Sans', sans-serif;
+    margin-left: 10px;
+}
+
+#characters{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#characters > label{
+    margin-right: 10px;
+}
+
+.accueil{
+    height: 500px;
+    width: 300px;
+    margin-left: 30%;
+}
