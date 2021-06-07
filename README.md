@@ -3,7 +3,7 @@
 ## Organisation générale
 
 Le site se compose de 3 pages : Accueil, Connexion et Infos, contenant des infos générales.  
-Toutes les pages comportent un header avec une navbar et des images de fond. Seule la page d'accueil comporte une image centrale lorsque l'on n'est pas connecté.
+Toutes les pages comportent un headern un footer fixe avec une navbar et des images de fond. Seule la page d'accueil comporte une image centrale lorsque l'on n'est pas connecté.
 
 ## Logins
 ``` php
