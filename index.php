@@ -52,4 +52,5 @@
         <?php endif ?>
     </main>
 </body>
+<?php include './templates/footer.php'; ?>
 </html>

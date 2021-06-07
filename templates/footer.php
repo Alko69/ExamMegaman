@@ -1,0 +1,1 @@
+<footer>Copyright © YG</footer>
