@@ -12,3 +12,9 @@ plèbe => 1234
 ```
 ## Secret
 Le lien vers la page secrète se trouve sur l'accueil, et est visible uniquement lorsque l'on est log en tant qu'admin. On peut cocher sur cette page les différentes transformations de Megaman, pour voir celles qui nous intéressent. L'envoi du formulaire nous redirige vers l'accueil avec les infos correspondantes. *Note: Le texte est en anglais*
+
+## Fonctionalités
+
+> * Image d'accueil qui disparait si quelqu'un est connecté
+> * Lien vers la page secrète accessible que si connecté en tant qu'admin
+> * Page secrète inaccessible par l'url si on n'est pas connecté

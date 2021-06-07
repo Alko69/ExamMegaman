@@ -47,7 +47,7 @@
             <div class="secretInfos">
                 <h2>Bombman</h2>
                 <p>Bomb Man (ボンバーマン Bonbāman, lit. "Bomberman") is a Robot Master from the original Mega Man. He was created by Doctor Thomas Light for demolition and land development, blasting away debris so that land could be cleared for construction projects, working in tandem with Guts Man. Bomb Man's and Fire Man's development began at the same time, and despite being warned by Rock that working with both explosives and fire could be dangerous, Dr. Light went on believing that Ice Man could handle things if anything happened. A few flash fires did occur, but Ice Man ran away saying he doesn't like saunas.[2] His Special Weapon is the Hyper Bomb—very powerful explosives originally used for land reclamation and destroying abandoned buildings.</p>
-                <img src="./img/bombman.png" alt="">
+                <img class="end" src="./img/bombman.png" alt="">
             </div>
         <?php endif ?>
     </main>

@@ -25,7 +25,7 @@
                 Le 25 Juillet 2015 une compilation des 6 premiers jeux de la série du nom de Mega Man: Legacy Collection voit le jour avec une sortie mondiale suivi de Mega Man: Legacy Collection 2 le 8 Août 2017.
             </p>
         </div>
-        <div id="megaX">
+        <div class="end">
             <h2>Megaman X</h2>
             <p>Suite directe de la série classique, Mega Man X se déroule 100 ans plus tard et est centrée autour des aventures d'X, ultime création du docteur Light. Son design et ses capacités seront reproduites par un célèbre chercheur de l'époque, le professeur Cain, lors de la création d'une nouvelle race de robots, les Réploïdes. Malgré ses ambitions pacifiques, X est appelé à prendre les armes pour combattre les Mavericks, Réploïdes malfaisants et antagonistes principaux de la série7,8.
             Mega Man X marque le début d'une longue série composée de huit épisodes sur consoles de salon et deux sur consoles portables. Les trois premiers jeux (X1-X3) sont sortis sur Super Nintendo, y compris sur le territoire européen, tandis que les autres sont parus respectivement sur PlayStation (X4-X6) et PlayStation 2 (X7 et X8).</p>
